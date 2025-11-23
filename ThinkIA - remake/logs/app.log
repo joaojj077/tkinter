@@ -1,0 +1,44 @@
+[2025-11-20 23:33:04] Falha na análise IA: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-20 23:35:10] Falha na análise IA: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-11-20 23:37:09] ERRO: module 'utils' has no attribute 'log'
+[2025-11-20 23:37:28] ERRO: module 'utils' has no attribute 'log'
+[2025-11-20 23:37:50] ERRO: module 'utils' has no attribute 'log'
+[2025-11-20 23:43:21] Novo pedido #5 criado para cliente joao (#1) (total R$ 9.00)
+[2025-11-21 00:02:21] Relatório exportado para PDF: C:/Users/Joao Victor/OneDrive/Área de Trabalho/joao.pdf
+[2025-11-21 00:12:10] Produto deletado: macarrão (ID: None)
+[2025-11-21 00:12:17] Produto deletado: Vassoura (ID: None)
+[2025-11-21 00:12:21] Produto deletado: lampada (ID: None)
+[2025-11-21 00:12:24] Produto deletado: Faca Tramontina (ID: None)
+[2025-11-21 00:12:27] Produto deletado: Colher Tramontina (ID: None)
+[2025-11-21 00:14:23] Cliente adicionado: Whinderson Nunes (ID: 4)
+[2025-11-21 00:14:48] Cliente adicionado: Renan (ID: 5)
+[2025-11-21 00:15:08] Produto adicionado: Mundial51 (ID: 6)
+[2025-11-21 00:15:22] Produto adicionado: Farinha de Porco (ID: 7)
+[2025-11-21 00:17:13] Pedido criado: ID 6, Cliente ID 5
+[2025-11-21 00:17:20] Pedido deletado: ID None
+[2025-11-21 00:17:28] Pedido deletado: ID None
+[2025-11-21 00:17:32] Pedido deletado: ID None
+[2025-11-21 00:17:53] Relatório exportado para PDF: C:/Users/Joao Victor/OneDrive/Área de Trabalho/renam.pdf
+[2025-11-21 00:18:17] Relatório exportado para PDF: C:/Users/Joao Victor/OneDrive/Área de Trabalho/ww.pdf
+[2025-11-21 00:21:50] Produto atualizado: Farinha de Porco (ID: None)
+[2025-11-21 00:22:37] Produto adicionado: macarrão (ID: 8)
+[2025-11-21 00:22:54] Produto adicionado: Gel de cabelo (ID: 9)
+[2025-11-21 00:23:22] Pedido atualizado: ID None, Cliente ID 5
+[2025-11-21 00:23:37] Falha na integração com IA: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+[2025-11-21 01:01:45] Falha geral na integração com IA: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+[2025-11-21 01:04:16] Falha geral na integração com IA: Missing key inputs argument! To use the Google AI API, provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+[2025-11-21 01:08:30] Falha na configuração da chave Gemini: Chave GEMINI_API_KEY não encontrada no ambiente. Configure-a antes de rodar o app.
+[2025-11-21 16:20:47] Análise de pedidos realizada via IA (Gemini).
+[2025-11-21 18:48:07] Relatório exportado para CSV: C:/Users/Joao Victor/OneDrive/Área de Trabalho/kkk.csv
+[2025-11-21 18:53:25] Cliente adicionado: Mariano (ID: 6)
+[2025-11-21 18:53:41] Produto adicionado: pratos (ID: 10)
+[2025-11-21 18:53:46] Produto deletado: pratos (ID: None)
+[2025-11-21 18:54:16] Pedido atualizado: ID None, Cliente ID 5
+[2025-11-21 18:54:25] Pedido deletado: ID None
+[2025-11-21 18:55:52] Análise de pedidos realizada via IA (Gemini).
+[2025-11-21 18:58:01] Pedido criado: ID 7, Cliente ID 6
+[2025-11-21 18:58:18] Pedido atualizado: ID None, Cliente ID 6
+[2025-11-21 18:58:20] Pedido atualizado: ID None, Cliente ID 3
+[2025-11-21 18:59:20] Relatório exportado para PDF: C:/Users/Joao Victor/OneDrive/Área de Trabalho/12123.pdf
+[2025-11-21 19:00:03] Cliente deletado: Whinderson Nunes (ID: None)
+[2025-11-21 19:01:16] Análise de pedidos realizada via IA (Gemini).
